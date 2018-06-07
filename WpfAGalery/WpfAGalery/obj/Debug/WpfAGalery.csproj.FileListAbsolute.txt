@@ -1,0 +1,17 @@
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\bin\Debug\WpfAGalery.exe.config
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\bin\Debug\WpfAGalery.exe
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\bin\Debug\WpfAGalery.pdb
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\MainWindow.baml
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\MainWindow.g.cs
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\App.g.cs
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery_MarkupCompile.cache
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery.g.resources
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery.Properties.Resources.resources
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery.exe
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\WpfAGalery.pdb
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\Login.baml
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\Login.g.cs
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\Registration.baml
+C:\Users\Дима\Desktop\WpfAGalery\WpfAGalery\obj\Debug\Registration.g.cs

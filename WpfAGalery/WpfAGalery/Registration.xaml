@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfAGalery.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registration" Height="400" Width="250" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closed="Window_Closed_1">
+    <Canvas>
+        <Border Height="352" Width="224" BorderBrush="Blue" BorderThickness="2" CornerRadius="8" Canvas.Left="10" Canvas.Top="10"/>
+        <Label Canvas.Left="48" Canvas.Top="10">Image Gallery registration</Label>
+        <StackPanel Width="150" Canvas.Left="45" Canvas.Top="41">
+            <Label>login</Label>
+            <TextBox Name="login"></TextBox>
+            <Label>Password</Label>
+            <PasswordBox Name="password"></PasswordBox>
+            <Label>Password again</Label>
+            <PasswordBox Name="password_again"></PasswordBox>
+            <Label>About yorself</Label>
+            <Label>Name</Label>
+            <TextBox Name="name"></TextBox>
+            <Label>Surname</Label>
+            <TextBox Name="surname"></TextBox>
+            <StackPanel Orientation="Horizontal">
+                <Button Height="20" Width="70" Margin="0,10,5,0" Click="Button_Click_1">Ok</Button>
+                <Button Height="20" Width="70" Margin="5,10,0,0" Click="Button_Click_2">Cancel</Button>
+            </StackPanel>
+        </StackPanel>
+    </Canvas>
+</Window>
